@@ -10,7 +10,7 @@ public:
 
 class derivedClass : public baseClass { 
 public:
-	void perkenalan() final {
+	void perkenalan() final { 
 		cout << "Hallo saya function dari derived class";
 	}
 };
