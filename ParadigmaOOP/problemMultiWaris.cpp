@@ -29,7 +29,7 @@ public:
 		orang(pUmur)
 	{
 		cout << "pelajar dibuat\n" << endl;
-
+		 
 	}
 };
 
