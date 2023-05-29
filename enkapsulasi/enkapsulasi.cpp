@@ -16,7 +16,7 @@ public:
 
 
 int main() {
-	remoteLampu lampuRumah;
+	remoteLampu lampuRumah; 
 	
 	lampuRumah.setSaklarNo(0, "Lampu Teras Rumah");
 	lampuRumah.setSaklarNo(1, "Lampu Ruang Tamu");
